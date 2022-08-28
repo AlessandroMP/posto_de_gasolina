@@ -1,0 +1,56 @@
+#banner {
+    width: 100%;  
+}
+
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+
+.titulo-pagina {
+    text-transform: uppercase;
+    text-decoration: underline #d0ff00b7;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.paragrafoprincipal{
+    text-align:right;
+    
+}
+
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.paragrafobeneficios{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficiosgasolinacomum{
+    display: inline-block;
+    width: 20%;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+.slogan{
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+}
